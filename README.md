@@ -13,49 +13,49 @@ vii) Can add or remove a restaurant from the Favorites list.
 ### Some of the snapshots of the application are shown below-
 
 ### Splashscreen-
-![Start Screen of app,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004715_Food%20Lovers.jpg)
+![Start Screen of app](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004715_Food%20Lovers.jpg =200x400)
 
 ### Login Activity-
-![Login Activity,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005420_Food%20Lovers.jpg)
+![Login Activity](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005420_Food%20Lovers.jpg =200x400)
 
 ### Register Activity-
-![Register Activity,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005422_Food%20Lovers.jpg)
+![Register Activity](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005422_Food%20Lovers.jpg =200x400)
 
 ### Forgot Password Activity-
-![Forgot Password Activity,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005422_Food%20Lovers.jpg)
+![Forgot Password Activity](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005422_Food%20Lovers.jpg =200x400)
 
 ### Reset Password Activity-
-![Reset Password Activity,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005507_Food%20Lovers.jpg)
+![Reset Password Activity](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005507_Food%20Lovers.jpg =200x400)
 
 ### Navigation Drawer-
-![Navigation Drawer,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005538_Food%20Lovers.jpg)
+![Navigation Drawer](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005538_Food%20Lovers.jpg =200x400)
 
 ### Home-
-![All Restaurants,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004805_Food%20Lovers.jpg)
+![All Restaurants](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004805_Food%20Lovers.jpg =200x400)
 
 ### Sort the restaurants according to ratings and cost for one person-
-![Sort,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004728_Food%20Lovers.jpg)
+![Sort](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004728_Food%20Lovers.jpg =200x400)
 
 ### Restaurant Menu-
-![Restaurant Menu,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004830_Food%20Lovers.jpg)
+![Restaurant Menu](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004830_Food%20Lovers.jpg =200x400)
 
 ### Cart-
-![Cart,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004834_Food%20Lovers.jpg)
+![Cart](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004834_Food%20Lovers.jpg =200x400)
 
 ### Order Successful-
-![Order Successful,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004839_Food%20Lovers.jpg)
+![Order Successful](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004839_Food%20Lovers.jpg =200x400)
 
 ### Favorites-
-![Favorites,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004808_Food%20Lovers.jpg)
+![Favorites](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004808_Food%20Lovers.jpg =200x400)
 
 ### Order History-
-![Order History,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005559_Food%20Lovers.jpg)
+![Order History](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005559_Food%20Lovers.jpg =200x400)
 
 ### Profile-
-![Profile,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005540_Food%20Lovers.jpg)
+![Profile](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-005540_Food%20Lovers.jpg =200x400)
 
 ### FAQs-
-![FAQ,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004748_Food%20Lovers.jpg)
+![FAQ](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004748_Food%20Lovers.jpg =200x400)
 
 ### Logout-
-![Logout,20%](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004751_Food%20Lovers.jpg)
+![Logout](https://github.com/sauravjaiswa/FoodLovers/blob/master/Snapshots/Screenshot_20200613-004751_Food%20Lovers.jpg =200x400)
