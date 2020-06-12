@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Food Lovers</string>
+    <string name="mobile_number_10_digits">Mobile Number(10 digits)</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now</string>
+    <string name="name">Name (Min. 3 characters)</string>
+    <string name="email_address">Email Address</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="password_min_4_characters">Password(Min. 4 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="enter_your_registered_mobile_number_and_email_below">Enter your registered mobile number and email below:</string>
+    <string name="next">Next</string>
+    <string name="enter_the_received_otp_below">Enter the received OTP below</string>
+    <string name="otp_4_characters">OTP (4 characters)</string>
+    <string name="new_password_min_4_characters">New password (Min. 4 characters)</string>
+    <string name="submit">Submit</string>
+    <string name="registering_please_wait">Registering Please Wait...</string>
+    <string name="preference_file_name">User Details Preferences</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favorite_restaurants">Favorite Restaurants</string>
+    <string name="order_history">Order History</string>
+    <string name="faqs">FAQs</string>
+    <string name="Rs">\u20B9</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="log_out">Log out</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_restaurants">Search Restaurants</string>
+    <string name="sort_by_ratings">Sort by Rating</string>
+    <string name="sort_by_cost_low_to_high">Sort by cost (low to high)</string>
+    <string name="sort_by_cost_high_to_low">Sort by cost (high to low)</string>
+    <string name="no_restaurant_added_as_favorites_yet">No Restaurant added as Favorites yet</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below:</string>
+    <string name="proceed_to_cart">Proceed to Cart</string>
+    <string name="place_order">Place Order</string>
+    <string name="your_previous_orders_are_listed_below">Your previous orders are listed below:</string>
+    <string name="your_order_has_been_successfully_placed">Your order has been successfully placed!!</string>
+    <string name="ok">Ok</string>
+    <string name="logging_in">Logging in...</string>
+    <string name="changing_your_password">Changing your password...</string>
+    <string name="no_orders_done_yet">No orders done yet</string>
+    <string name="sort_by">Sort By</string>
+</resources>

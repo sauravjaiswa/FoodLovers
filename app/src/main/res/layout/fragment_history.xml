@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/silver"
+    tools:context=".fragment.HistoryFragment">
+
+    <RelativeLayout
+        android:id="@+id/rlOrders"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/txtLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="@string/your_previous_orders_are_listed_below"
+            android:drawableLeft="@drawable/ic_history"
+            android:drawablePadding="5dp"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerParent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtLabel"
+            android:padding="10dp"
+            android:layout_margin="5dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/txtNoOrdersLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/silver">
+
+        <TextView
+            android:id="@+id/txtNoOrders"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_orders_done_yet"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:drawableTop="@drawable/no_fav"
+            android:drawablePadding="10dp"
+            android:layout_centerInParent="true"
+            android:textColor="@color/colorPrimary"/>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/progressLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/silver">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

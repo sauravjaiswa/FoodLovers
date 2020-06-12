@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="4dp">
+
+    <LinearLayout
+        android:id="@+id/llContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtOrderId"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Order ID:"
+            android:textColor="@color/black"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"/>
+
+        <LinearLayout
+            android:id="@+id/txtRestaurantDetails"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:orientation="horizontal"
+            android:layout_below="@+id/txtLabel"
+            android:weightSum="3"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:id="@+id/txtRestaurantName"
+                android:layout_weight="2"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="Restaurant Name"
+                android:textColor="@color/black"
+                android:drawableLeft="@drawable/ic_restaurant"
+                android:drawablePadding="5dp"
+                android:gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/txtDate"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="Order Date"
+                android:textColor="@color/black"
+                android:drawableLeft="@drawable/ic_date"
+                android:drawablePadding="5dp"
+                android:gravity="center_vertical"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerChild"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_margin="5dp"/>
+
+        <TextView
+            android:id="@+id/txtTotalCost"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Total Cost"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="15dp"
+            android:textColor="@color/black"
+            android:gravity="center_vertical"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
